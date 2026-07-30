@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/keshar3085/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshar3085/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keshar3085/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/keshar3085/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -92,9 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/keshar3085/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/keshar3085/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/keshar3085/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/keshar3085/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
