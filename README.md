@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/keshar3085/leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/keshar3085/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshar3085/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/keshar3085/leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshar3085/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/keshar3085/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/keshar3085/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/keshar3085/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keshar3085/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keshar3085/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/keshar3085/leetcode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshar3085/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/keshar3085/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keshar3085/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/keshar3085/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keshar3085/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keshar3085/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/keshar3085/leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/keshar3085/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/keshar3085/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keshar3085/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/keshar3085/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/keshar3085/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/keshar3085/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
