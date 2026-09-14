@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/keshar3085/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0162-find-peak-element](https://github.com/keshar3085/leetcode/tree/master/0162-find-peak-element) |
 | [0486-predict-the-winner](https://github.com/keshar3085/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshar3085/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/keshar3085/leetcode/tree/master/0835-image-overlap) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/keshar3085/leetcode/tree/master/0162-find-peak-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshar3085/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/keshar3085/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/keshar3085/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
