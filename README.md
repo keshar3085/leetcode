@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/keshar3085/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/keshar3085/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshar3085/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keshar3085/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/keshar3085/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/keshar3085/leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshar3085/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/keshar3085/leetcode/tree/master/0162-find-peak-element) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keshar3085/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/keshar3085/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/keshar3085/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/keshar3085/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keshar3085/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/keshar3085/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1386-cinema-seat-allocation](https://github.com/keshar3085/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keshar3085/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshar3085/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/keshar3085/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keshar3085/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/keshar3085/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/keshar3085/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/keshar3085/leetcode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keshar3085/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/keshar3085/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/keshar3085/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/keshar3085/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/keshar3085/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/keshar3085/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/keshar3085/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/keshar3085/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
