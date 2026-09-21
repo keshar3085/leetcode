@@ -349,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/keshar3085/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/keshar3085/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/keshar3085/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
