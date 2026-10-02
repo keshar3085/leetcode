@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keshar3085/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/keshar3085/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/keshar3085/leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/keshar3085/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/keshar3085/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keshar3085/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -250,11 +251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keshar3085/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/keshar3085/leetcode/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/keshar3085/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/keshar3085/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/keshar3085/leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/keshar3085/leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/keshar3085/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keshar3085/leetcode/tree/master/0877-stone-game) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keshar3085/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/keshar3085/leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/keshar3085/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/keshar3085/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keshar3085/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
